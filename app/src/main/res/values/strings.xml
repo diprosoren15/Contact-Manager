@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="create_a_password">Create a Password</string>
+    <string name="re_enter_password">Re Enter Password</string>
+    <string name="enter_email_address">Enter Email address</string>
+    <string name="already_an_user_click_here_to_sign_in">Already an user? Click here to SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome_to_contact_manager">Welcome to Contact Manager</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="your_contact_manager">YOUR CONTACT MANAGER</string>
+    <string name="saved_contacts">Saved Contacts</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="new_contact">New Contact</string>
+</resources>
